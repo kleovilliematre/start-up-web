@@ -1,0 +1,63 @@
+h1 {
+    font-family: lucida;
+    font-weight: lighter;
+    text-align: center;
+    font-size: 20px;
+}
+h4 {
+    font-family: Lucida Calligraphy;
+}
+p {
+    font-style: normal;
+    text-align: center;
+    color: black;
+    font-size: 80%;
+}
+body {
+    text-align: center;
+    padding: 0%;
+    margin: 0%;
+    background-size: 0%;
+    background-color:#bce6ff;
+}
+.circular--square {
+    border-radius: 50%;
+    margin-top: 50px;
+}
+main {
+    border: thistle;
+}
+header {
+    background-color:#7bd5f5;
+    padding-bottom: 0;
+}
+footer {
+    background-color: #85CBCC;
+    padding-bottom: 5%;
+    text-align: center;
+    
+}
+h3 {
+    font-family: Tahoma;
+    font-size: 80%;
+    font-weight: lighter;
+}
+h2 {
+    font-family:  Arial Narrow Bold;
+    font-weight: lighter; 
+    font-size: 20px;
+    color: #015c92;
+}
+h5 {
+    font-family: Geneva;
+    font-weight: lighter;
+    
+}
+#contact {
+    margin-top: 500px;
+ }
+#hi {
+    margin-top: 50px;
+}
+#kleo {
+    margin-top: 50px;
